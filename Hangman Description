@@ -1,5 +1,7 @@
 # Hangman 
 
 The game uses functions, if-else statements and inputs from the user.
+You have to guess letters of a word to complete it.
+The word is selected from a random selection of words from a list.
 This was a project I did with a help of a teacher.
 It was part of the python 2 course.
