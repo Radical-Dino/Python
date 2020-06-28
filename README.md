@@ -32,4 +32,4 @@ This game is like a story. You game asks you to make a desicion and you make it.
 
 And depending on what answer you give, the game goes in another direction.
 
-There are many endngs to the story and this game-story is part 1 of the entire thing.
+There are many endngs to the story. 
